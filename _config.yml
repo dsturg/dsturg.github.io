@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "David M. Sturgill
-  avatar           : "profile.png"
+  name             : "David M. Sturgill"
+  avatar           : "portrait.png"
   bio              : "Computational biologist at the National Cancer Institute.  Researching mechansisms of gene expression regulation."
   location         : "Washington D.C."
   employer         : "National Cancer Institute, NIH"
