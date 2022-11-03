@@ -11,11 +11,7 @@ redirect_from:
 
 About me
 ------
-<<<<<<< HEAD
 I am a computational staff scientist in the [Laboratory for Receptor Biology and Gene Expression, within the National Cancer Institute](https://ccr.cancer.gov/laboratory-of-receptor-biology-and-gene-expression).  I am interested in how different cells differentially deploy essentially the same gene content, to give rise to a host of specialized phenotypes and functions.  By integrating analysis of heterogeneous high-throughput datasets, I seek to understand the mechanisms that control the regulation of gene expression.  Much of my focus has been on mechanisms that function after transcription, including RNA processing, splicing, and more recently, RNA modifications.  
-=======
-I am a computational staff scientist in the [Laboratory for Receptor Biology and Gene Expression] (https://ccr.cancer.gov/laboratory-of-receptor-biology-and-gene-expression), within the National Cancer Institute.  I am interested in how different cells differentially deploy essentially the same gene content, to give rise to a host of specialized phenotypes and functions.  By integrating analysis of heterogeneous high-throughput datasets, I seek to understand the mechanisms that control the regulation of gene expression.  Much of my focus has been on mechanisms that function after transcription, including RNA processing, splicing, and more recently, RNA modifications.  
->>>>>>> 2be9c06cfca9a314ad0404e8f105794a396955d0
 
 Publications
 ------
