@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David M. Sturgill, Ph.D.       Genomics  |  Transcriptomics |  Bioinformatics"
+title                    : "David M. Sturgill, Ph.D.            Genomics  |  Transcriptomics |  Bioinformatics"
 title_separator          : "-"
 name                     : &name "David M. Sturgill"
 description              : &description "Computational biologist"
