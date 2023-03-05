@@ -19,5 +19,5 @@ A complete list of my publications is [available here]( https://scholar.google.c
 
 Teaching
 ------
-[Getting the Message: High Resolution Analysis of Transcriptomes](https://catalog.faes.org/bioinformatics-and-data-science/biof-544), a seven-week online course covering a broad area of computational transcriptomics, via FAES (BIOF 544).
+[Getting the Message: High Resolution Analysis of Transcriptomes](https://catalog.faes.org/bioinformatics-and-data-science/biof-544), a seven-week online course covering a broad area of computational transcriptomics, via FAES (BIOF 544). Registration open for Spring 2023 Session B.
  
