@@ -84,7 +84,7 @@ author:
   avatar           : "portrait.jpg"
   bio              : "Computational biologist at the National Cancer Institute."
   location         : "Washington D.C."
-  employer         : "National Cancer Institute, NIH"
+  employer         : "National Institutes of Health"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=sturgill+d"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=-UBk_eQAAAAJURL"
   email            : "dave.sturgill@gmail.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "dsturgill"
   orcid            : "https://orcid.org/0000-0002-7902-3605"
   pinterest        :
   soundcloud       :
